@@ -1,8 +1,7 @@
 
-  # Title
-  readme template
+  # title
   ## Description
-  make a README file
+  descript
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -11,14 +10,16 @@
   * [Contributions](#contributions)
   * []
   ## Installation
-  no
+  install
   ## Usage
-  write a professional readme
+  usage
   ## Credit
-  tutor
+  nope
   ## Licensing
   [MIT](https://opensource.org/licenses/MIT)
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Contributions
-  undefined
+  contribute;
+  ## Tests
+  n/a
