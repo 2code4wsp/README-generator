@@ -49,6 +49,15 @@ const questions = [
         message: 'How to contribute to this project',
         type: 'input',
     },
+    {
+        name: 'Tests',
+        message: 'How to test this application',
+        type: 'input',
+    },
+    {
+        name: 'questions',
+        message: 
+    }
 ]
 
 // TODO: Create a function to write README file
