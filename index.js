@@ -61,6 +61,12 @@ const questions = [
         message: 'How to test this application',
         type: 'input',
     },
+
+    {
+        name: 'questions',
+        message: 'What is your GitHub username?',
+        type: 'input',
+    }
     
 ]
 

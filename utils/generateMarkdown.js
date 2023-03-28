@@ -68,6 +68,8 @@ function generateMarkdown(data) {
   * [Credit](#credit)
   * [Licensing](#licensing)
   * [Contributions](#contributions)
+  * [Tests](#tests)
+  * [Questions](#questions)
   * []
   ## Installation
   ${data.installation}
@@ -82,7 +84,9 @@ function generateMarkdown(data) {
   ## Contributions
   ${data.contributions};
   ## Tests
-  ${data.tests}`
+  ${data.tests}
+  ## Questions
+  If you have any questions about the repo, you may contact me directly at ${data.email}.`
 }
 
 // 
