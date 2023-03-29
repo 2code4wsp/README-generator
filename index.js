@@ -3,6 +3,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
 const path = require("path");
+//const GitHub =require("github");
 // TODO: Create an array of questions for user input
 
 const questions = [
@@ -63,11 +64,20 @@ const questions = [
     },
 
     {
-        name: 'questions',
+        name: 'username',
         message: 'What is your GitHub username?',
         type: 'input',
+    },
+    {
+        name: 'github',
+        message: 'What is your GitHub URL?',
+        type: 'input',
+    },
+    {
+        name: 'email',
+        message: 'What is your email address?',
+        type: 'input',
     }
-    
 ]
 
 // TODO: Create a function to write README file
