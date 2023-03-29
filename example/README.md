@@ -1,25 +1,31 @@
 
-  # README generator
+  # title
   ## Description
-  We will be using the application to create a professional README template for future use
+  descript
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credit](#credit)
   * [Licensing](#licensing)
   * [Contributions](#contributions)
+  * [Tests](#tests)
+  * [Questions](#questions)
   * []
   ## Installation
-  Node.js should be run at 8.2.4 installation for proper use
+  yes
   ## Usage
-  Using this application will create a README template for quick and easy use!
+  follow prompts
   ## Credit
-  no
+  tutor and ta
   ## Licensing
   [MIT](https://opensource.org/licenses/MIT)
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Contributions
-  n/a;
+  github
   ## Tests
-  n/a
+  your choice
+  ## Questions
+  My GitHub username is towekfd
+  My GitHub URL is ladskfjeigh
+  If you have any questions about the repo, you may contact me directly at lakjfeifed.
