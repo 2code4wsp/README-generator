@@ -7,7 +7,8 @@ Every repository needs a README file in order to describe a detailed overview of
  Node.js will need to be installed on your machine, (for this project version 16 of Node.js was utilized) and then you will install inquirer by typing "npm install inquirer@8.2.4" in the integrated terminal. At this point you may run "node index" and answer the prompts as they appear. 
 
 ## Usage
-
+screenshot ---> ![Alt text](assets/2023-03-28.png)
+video submission ---> https://drive.google.com/file/d/1zPx8mEnM4BmObkfc0wQkrd7F-NvUU5Qi/view
 
 ## Credits
 I had a tutoring session to help me create and understand the markdowns. I had help with the if statement for the MIT license and used that as my template to create the rest for link, badge, and section. I also needed help with a TA trying to include 3 inputs into my 'questions' section of the README file. 
